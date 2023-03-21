@@ -25,7 +25,6 @@ To use the API, follow these steps:
 
 1.  Start the API by running the following command in the `API` folder:
 
-    bashCopy code
 
     `python walleaiapi.py`
 
@@ -43,3 +42,8 @@ To use the API, follow these steps:
     Note: You will need to replace `WALL-E_Data/data.json` with the path to the data file that you collected during gameplay.
 
 5.  Use the trained AI model to predict and improve waste management in the game.
+
+
+
+
+Download the full game from here: https://salik03.itch.io/wall-e-jaipur-hackathon
