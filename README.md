@@ -16,8 +16,6 @@ To run the API, you will need to install the following dependencies:
 
 You can install these dependencies by running the following command:
 
-bashCopy code
-
 `pip install -r API/requirements.txt`
 
 Usage
